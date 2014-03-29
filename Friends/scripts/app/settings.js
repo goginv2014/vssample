@@ -5,7 +5,7 @@
 var appSettings = {
     
     everlive: {
-        apiKey: '$EVERLIVE_API_KEY$', // Put your Everlive API key here
+        apiKey: 'xHTkUb5oT0bxopZA', // Put your Everlive API key here
         scheme: 'http'
     },
     
